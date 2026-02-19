@@ -15,10 +15,14 @@ Running App (Antigravity): A custom Strava integration that uses agents to proce
 📈 Algorithmic Modeling: From scratch implementations of Google's PageRank algorithm in SageMath to rapid prototyping of Machine Learning models in high-paced startup environments.
 
 🧰 Tech Stack:
+
 Languages: Python (Specialist), SQL, SageMath.
+
 AI & ML: Machine Learning, Neural Networks, RAG, LangChain, LangGraph.
+
 IoT & Data: FIWARE, Node-RED, Postman, API Integration.
+
 Soft Skills: Analytical Thinking, Rapid Prototyping, and Cross-Cultural Collaboration (experienced in UK & Greece).
 
 📫 Connect with me:
-📍 Badajoz / Pamplona, Spain 🔗 LinkedIn 📧 pedropaljara@gmail.com
+📍 Badajoz / Pamplona, Spain 📧 pedropaljara@gmail.com
