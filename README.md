@@ -1,16 +1,25 @@
 ## Hi there 👋
+I am a Mathematics graduate dedicated to bridging the gap between theoretical modeling and real-world digital solutions. My expertise lies at the intersection of Applied Mathematics (Graph Theory, Markov Chains) , Agentic AI, and Urban Digital Twins.
 
-<!--
-**pedropalvareez/pedropalvareez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently, I am supporting the development of PRISMA , a multi-risk situational intelligence system that leverages IoT and Copernicus data for smarter municipal decision-making.
 
-Here are some ideas to get you started:
+🛠️ What I'm Building:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Agentic AI Ecosystems: I design and deploy intelligent agent frameworks using LangGraph and LangChain.
+
+Laboratory Inventory: An AI-driven system for automated supply management and tracking.
+
+Running App (Antigravity): A custom Strava integration that uses agents to process and visualize training data dynamically.
+
+🏙️ Digital Twins & FIWARE: Experienced in building IoT solutions and smart data flows within the FIWARE ecosystem.
+
+📈 Algorithmic Modeling: From scratch implementations of Google's PageRank algorithm in SageMath to rapid prototyping of Machine Learning models in high-paced startup environments.
+
+🧰 Tech Stack:
+Languages: Python (Specialist), SQL, SageMath.
+AI & ML: Machine Learning, Neural Networks, RAG, LangChain, LangGraph.
+IoT & Data: FIWARE, Node-RED, Postman, API Integration.
+Soft Skills: Analytical Thinking, Rapid Prototyping, and Cross-Cultural Collaboration (experienced in UK & Greece).
+
+📫 Connect with me:
+📍 Badajoz / Pamplona, Spain 🔗 LinkedIn 📧 pedropaljara@gmail.com
