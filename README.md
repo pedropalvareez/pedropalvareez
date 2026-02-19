@@ -1,12 +1,11 @@
 ## Hi there 👋
 I am a Mathematics graduate dedicated to bridging the gap between theoretical modeling and real-world digital solutions. My expertise lies at the intersection of Applied Mathematics (Graph Theory, Markov Chains) , Agentic AI, and Urban Digital Twins.
 
-Currently, I am supporting the development of PRISMA , a multi-risk situational intelligence system that leverages IoT and Copernicus data for smarter municipal decision-making.
 
 🛠️ What I'm Building:
 
 🤖 Agentic AI Ecosystems: I design and deploy intelligent agent frameworks using LangGraph and LangChain.
-
+Supporting the development of PRISMA , a multi-risk situational intelligence system that leverages IoT and Copernicus data for smarter municipal decision-making.
 Laboratory Inventory: An AI-driven system for automated supply management and tracking.
 
 Running App (Antigravity): A custom Strava integration that uses agents to process and visualize training data dynamically.
