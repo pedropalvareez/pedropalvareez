@@ -6,7 +6,7 @@ I build agentic AI systems that work in production, and I like turning ambiguous
 
 ## 🛠️ What I'm building
 
-- - **Multi-agent platform for internal departments** (MB3 Gestión): I designed and built it together with the teams that use it. It orchestrates LLM agents through tool calling, answers questions over company documents with hybrid RAG (semantic + keyword retrieval), turns natural language into SQL queries over internal data (text-to-SQL), and anonymizes sensitive data before it reaches the model to stay GDPR-compliant.
+- **Multi-agent platform for internal departments** (MB3 Gestión): I designed and built it together with the teams that use it. It orchestrates LLM agents through tool calling, answers questions over company documents with hybrid RAG (semantic + keyword retrieval), turns natural language into SQL queries over internal data (text-to-SQL), and anonymizes sensitive data before it reaches the model to stay GDPR-compliant.
 
 ## 🏆 Highlights
 
